@@ -2,7 +2,7 @@
 
 #Splash Screen
 
-![WhatsApp Image 2023-01-06 at 11 48 38 PM (3)](https://user-images.githubusercontent.com/107808348/211074274-a88ddb63-7355-4921-ab1c-b492105b7d06.jpeg =250x250)
+![WhatsApp Image 2023-01-06 at 11 48 38 PM (3)](https://user-images.githubusercontent.com/107808348/211074274-a88ddb63-7355-4921-ab1c-b492105b7d06.jpeg width="200" height="400")
 
 #SignUp Screen
 
