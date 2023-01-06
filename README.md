@@ -1,6 +1,4 @@
 # Live-Chat-App
-An Android Chatting Application coded in Java language using Android Studio. Backend is implemented using Firebase. Users can send messages, and set their profile pictures.
-
 #Splash Screen
 ![WhatsApp Image 2023-01-06 at 11 48 38 PM (3)](https://user-images.githubusercontent.com/107808348/211074274-a88ddb63-7355-4921-ab1c-b492105b7d06.jpeg)
 
@@ -8,6 +6,7 @@ An Android Chatting Application coded in Java language using Android Studio. Bac
 ![WhatsApp Image 2023-01-06 at 11 48 38 PM (1)](https://user-images.githubusercontent.com/107808348/211074408-8e89d409-15ab-449f-9cac-0623759815e8.jpeg)
 
 #SignIn Screen
+
 ![WhatsApp Image 2023-01-06 at 11 48 38 PM](https://user-images.githubusercontent.com/107808348/211074528-980536a6-1f3b-48b8-ade5-7d841ab741ac.jpeg)
 
 #Chatting Area
